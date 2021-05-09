@@ -1,6 +1,6 @@
 # Stock-Market-Prediction-using-Streamlit
 
-**Prediction of Stock Market Trend Dashboard using Streamlit**
+**Stock Market Trend Prediction Dashboard using Streamlit**
 
 This is a Project of stock Market Prediction dashboard using **Streamlit.io** and extreacting the live data of International Indices extracted from Yahoo Finance and Predicting the trend usnig **FbProphet**.
 
