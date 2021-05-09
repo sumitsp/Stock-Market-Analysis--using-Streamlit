@@ -1,0 +1,12 @@
+Yahoo Finance is a media platform that provides financial news, data about stock quotes, press releases,
+and financial reports. And all the data provided by Yahoo Finance is free. Yahoo Finance API is the API that Yahoo provides to fetch financial information.
+
+Install
+From PyPI with pip:
+
+$ pip install yahoo-finance
+From development repo (requires git)
+
+$ git clone git://github.com/lukaszbanasiak/yahoo-finance.git
+$ cd yahoo-finance
+$ python setup.py install
